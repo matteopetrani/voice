@@ -1,0 +1,9 @@
+{
+  "name": "voice",
+  "version": "0.1.0",
+  "description": "Impara una voce di scrittura da un corpus di testi (personale, professionale, di un cliente) e scrive saggi, post e tweet in quella voce, con controllo stilometrico locale. Pensato per l'italiano.",
+  "author": {
+    "name": "Matteo Petrani"
+  },
+  "keywords": ["writing", "style", "voice", "stylometry", "italiano"]
+}

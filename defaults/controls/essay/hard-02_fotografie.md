@@ -1,0 +1,27 @@
+---
+lang: it
+source: controllo negativo difficile, LLM con regole di prosa e divieti ma senza guida di voce
+ai_assisted: true
+---
+
+# Fotografare tutto e perdere il ricordo
+
+Nel 2014 la psicologa Linda Henkel, della Fairfield University, pubblicò su «Psychological Science» uno studio dal disegno semplice. Un gruppo di studenti visitava un museo d'arte con l'istruzione di osservare alcuni oggetti oppure di fotografarli. Il giorno dopo doveva dire che cosa ricordava. Gli oggetti fotografati risultarono ricordati peggio di quelli soltanto guardati, sia come numero sia come dettagli visivi. Henkel chiamò il fenomeno «photo-taking impairment effect», l'effetto di indebolimento del ricordo causato dallo scatto.
+
+Il risultato conferma un sospetto diffuso. Chiunque ha sul telefono centinaia di video di concerti che non ha mai riguardato e di cui conserva un'immagine mentale più povera di quella dei compagni che ballavano con le mani in tasca. Conviene però leggere lo studio per intero, perché i dati dicono meno di quanto si sente ripetere e insieme qualcosa di più scomodo.
+
+Dicono meno perché Henkel aveva previsto una seconda condizione. Agli studenti di questo gruppo veniva chiesto di ingrandire con lo zoom una parte precisa dell'oggetto prima di scattare. In quel caso l'indebolimento spariva. Lo scatto in sé lascia dunque intatta la memoria. Il danno compare quando la fotografia prende il posto dell'attenzione, cioè quando il compito di ricordare passa dalla testa al dispositivo. Chi sceglie un particolare e lo inquadra sta ancora guardando, e guardare basta a fissare qualcosa.
+
+Altri risultati vanno nella stessa direzione e complicano il quadro. Nel 2016 Kristin Diehl, Gal Zauberman e Alixandra Barasch pubblicarono sul «Journal of Personality and Social Psychology» una serie di esperimenti in cui chi fotografava durante un tour in autobus o durante una cena dichiarava di divertirsi di più. La macchina fotografica obbligava a cercare l'inquadratura e quindi a osservare meglio. Nel 2017 Barasch e altri colleghi misurarono su «Psychological Science» anche il lato uditivo dell'esperienza: chi aveva fotografato ricordava più cose viste e meno cose ascoltate. La fotografia orienta l'attenzione verso ciò che si può inquadrare e la sottrae al resto. La guida del museo che parlava mentre si scattava finisce tra le cose perse.
+
+Esiste poi un meccanismo più generale, che Betsy Sparrow, Jenny Liu e Daniel Wegner descrissero nel 2011 su «Science». Le persone ricordano meno un'informazione quando sanno che potranno ritrovarla altrove. Il cervello tratta il dispositivo come un archivio esterno e tende a memorizzare il modo di raggiungerlo più del contenuto. Applicato alle fotografie, il meccanismo ha una conseguenza semplice: se la scena è già al sicuro in una galleria, la mente non ha motivo di elaborarla con la cura che userebbe per una scena che svanirà.
+
+Fin qui il ricordo si perde perché l'attenzione si sposta. C'è però una seconda perdita che avviene dopo, e riguarda il ritorno. Una fotografia non contiene il ricordo. Contiene un innesco che lavora solo se qualcuno lo attiva, e lo attiva guardandola. Un archivio di diecimila immagini mai riaperte lavora in quella misura zero. Le vecchie scatole di stampe nei cassetti funzionavano meglio per una ragione pratica: erano poche, costavano ciascuna un po' di denaro e si sfogliavano a una festa, con qualcuno che diceva «guarda com'eri». Il costo dello scatto obbligava a scegliere e la scelta lasciava traccia.
+
+A questo si aggiunge l'effetto del pubblico. Una foto scattata per essere mostrata cambia la scena mentre la si vive. Il piatto viene spostato verso la finestra, il gruppo si dispone, qualcuno controlla come è venuta. L'esperienza comincia a essere organizzata in funzione di chi la vedrà dopo. Il ricordo che ne resta riguarda la messa in posa più che il piatto, e spesso la messa in posa è la parte meno interessante.
+
+Dire che bisogna smettere di fotografare sarebbe una conclusione sbagliata e nemmeno praticabile. Le fotografie hanno dato a molte famiglie un archivio che prima non esisteva, e chi ha perso un genitore sa quanto valga un'immagine ordinaria di un martedì qualunque. Il problema riguarda l'ordine delle operazioni e la quantità. Prima si guarda, poi si decide se la scena merita uno scatto, poi si scatta una volta sola. La decisione si può prendere in due secondi e costringe già a compiere il lavoro che la memoria richiede: stabilire che cosa, in quella scena, vale la pena di tenere.
+
+Conta anche il seguito. Vale la pena dedicare mezz'ora a fine mese a rivedere le immagini, cancellarne la maggior parte e lasciare le dieci migliori. La cancellazione spaventa perché sembra una perdita, eppure funziona come la selezione di chi tiene un diario: costringe a ricostruire l'episodio e a rinforzare proprio quei tratti che resteranno. Il ricordo, in fondo, è un atto ripetuto di ricostruzione e non un file che si recupera.
+
+Fotografare tutto produce dunque due effetti distinti. Durante l'evento sottrae attenzione, dopo l'evento sottrae occasioni di ritorno. Chi vuole ricordare deve restituire alla fotografia le due funzioni che il gesto automatico le ha tolto: guardare con intenzione prima di scattare e riguardare con intenzione dopo. Una foto inquadrata con cura e rivista tre volte nel corso di un anno conserva più di una cartella da quattromila immagini, che il telefono conserva benissimo e nessuno apre.

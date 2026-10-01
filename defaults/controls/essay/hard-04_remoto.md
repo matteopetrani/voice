@@ -1,0 +1,23 @@
+---
+lang: it
+source: controllo negativo difficile, LLM con regole di prosa e divieti ma senza guida di voce
+ai_assisted: true
+---
+
+# Il caffè che non si può prenotare
+
+In ufficio la macchina del caffè svolgeva un lavoro che nessun organigramma le aveva assegnato. Mentre aspettavi il tuo turno, il collega dell'amministrazione ti avvisava che un cliente aveva pagato in ritardo. La designer del piano di sopra ti chiedeva se avevi visto la bozza che girava da due giorni. Nessuno aveva convocato nessuno. Le informazioni passavano perché le persone si trovavano nello stesso posto.
+
+Il lavoro da remoto ha tolto quel posto. Gli strumenti che lo hanno sostituito, Slack e le videochiamate, trasportano bene tutto ciò che qualcuno ha deciso di trasportare. Una riunione ha un ordine del giorno e un messaggio ha un destinatario. Il corridoio non aveva né l'uno né l'altro: l'informazione arrivava a chi non l'aveva chiesta, su un tema che nessuno sapeva di dover toccare. Da remoto ricevi ciò che hai domandato o ciò che un collega ha giudicato utile per te. Il resto si perde senza che nessuno se ne accorga, ed è questa l'assenza più difficile da misurare, perché non lascia traccia in nessun registro.
+
+Immagino un caso ordinario. Una ricercatrice chiude un ciclo di interviste e scrive la sintesi. Se lavora in ufficio racconta a voce, a chi passa, un dettaglio che nella sintesi non c'è: tre partecipanti hanno esitato prima di rispondere a una certa domanda. Il designer che ascolta di sfuggita ci ripensa e modifica una schermata. Da remoto la ricercatrice carica la sintesi nella cartella condivisa e il designer la apre quando ha tempo. L'esitazione non compare in nessuna slide, quindi non arriva a nessuno.
+
+Si obietta che le conversazioni casuali si possono riprodurre. Molte aziende ci hanno provato con canali dedicati alle chiacchiere, abbinamenti a sorte tra colleghi e videochiamate senza ordine del giorno. Funzionano a tratti. Una conversazione prevista in calendario smette di essere casuale nel momento in cui vi entra: si decide di partecipare, si arriva con qualcosa da dire, si sa quanto durerà. La chiacchiera di corridoio nasceva dal fatto che nessuno stava facendo niente di preciso. L'attesa dell'ascensore, la coda davanti alla macchina e i tre minuti prima che la riunione cominciasse erano il terreno in cui cresceva. Una videochiamata non ha tempi morti, perché chi c'è si è collegato per parlare.
+
+A rimetterci di più sono le persone arrivate da poco. Chi lavora in un'azienda da anni possiede una rete di conoscenze che gli dice a chi telefonare per sapere una cosa. Chi è entrato quando il lavoro era già remoto quella rete la deve costruire con messaggi diretti, e ogni messaggio richiede un motivo. Scrivere a un collega sconosciuto «hai cinque minuti?» costa più che fermarlo accanto alla macchina del caffè. I giovani professionisti imparano il mestiere guardando e ascoltando chi lavora accanto a loro. A distanza vedono soltanto ciò che viene condiviso, cioè il lavoro finito e ripulito, mentre l'apprendistato si fa sul lavoro a metà, con le correzioni e i ripensamenti.
+
+Sarebbe comunque sbagliato rimpiangere l'ufficio come se fosse stato un luogo neutro. Il corridoio favoriva chi era presente, chi aveva orari compatibili con quelli del gruppo e chi si sentiva a proprio agio nell'interrompere gli altri. Chi lavorava da casa per assistere un familiare restava fuori dalle conversazioni che contavano. Lo stesso valeva per chi era timido o parlava poco. Oggi la conversazione casuale è sparita per tutti, e la perdita si distribuisce in modo più equo di prima. Chi già ne era escluso ha perso meno degli altri.
+
+Se la casualità non si può ricreare, si può sostituire con la regolarità. Un gruppo può prendere l'abitudine di scrivere in un canale aperto ciò che in ufficio avrebbe detto a voce: il dubbio su un titolo, l'intervista strana, la bozza non ancora pronta. Il costo principale è l'imbarazzo di mostrare un lavoro incompleto, e scende solo quando chi ha più anzianità comincia per primo. Le riunioni possono aprirsi con dieci minuti senza tema. I primi saranno goffi, poi qualcuno racconterà qualcosa di utile per caso, e allora il tempo sarà stato speso bene. Gli incontri in presenza, quando si organizzano, devono lasciare mezze giornate vuote in cui nessuno ha niente da presentare, perché le cose che si dicono in quei momenti non stanno in nessun ordine del giorno.
+
+Da remoto le informazioni viaggiano soltanto se qualcuno le spedisce. Un gruppo di lavoro può rendere la spedizione un'abitudine a basso costo, e ciò che prima passava accanto alla macchina del caffè passerà allora da un canale che tutti leggono.

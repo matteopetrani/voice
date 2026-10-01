@@ -1,0 +1,16 @@
+{
+  "name": "voice",
+  "owner": {
+    "name": "Matteo Petrani"
+  },
+  "plugins": [
+    {
+      "name": "voice",
+      "source": "./",
+      "description": "Impara una voce di scrittura da un corpus di testi e scrive saggi, post e tweet in quella voce, con controllo stilometrico locale."
+    }
+  ],
+  "metadata": {
+    "description": "Voce di scrittura appresa da un corpus di testi, per saggi, post e tweet."
+  }
+}
